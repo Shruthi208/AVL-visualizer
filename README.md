@@ -166,6 +166,8 @@ AVL trees are strictly balanced, which increases rebalancing overhead.
 Red-Black Trees provide a good balance between speed and efficiency.
 
 link for live:https://www.cs.usfca.edu/~galles/visualization/AVLtree.html
+<img width="1501" height="561" alt="image" src="https://github.com/user-attachments/assets/c180d2af-057f-4765-86b3-3df0a4145617" />
+
 
 ✅ Conclusion
 
